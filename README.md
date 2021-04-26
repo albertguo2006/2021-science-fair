@@ -1,5 +1,5 @@
 # 2021_science_fair
-Project materials, code, and data for the 2021 BC/Yukon Virtual Science Fair
+Project materials, code, and data for the 2021 BC/Yukon Virtual Science Fair and 2021 Canada Wide Science Fair
 
 # Project Summary
 **Abstract**
